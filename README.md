@@ -8,4 +8,3 @@ Projects that use different Front-end libraries
 - [jQuery library](https://github.com/Pegah1999/jQuery-library)
 
   jQuery is one of the most widely used JavaScript libraries in the world.
-- 
